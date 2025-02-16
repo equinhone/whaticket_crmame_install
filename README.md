@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
+<h1 align="center">Whaticket Baileys |AME Zap</h1>
 
 <div align="center">
 
